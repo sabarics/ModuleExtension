@@ -10,7 +10,7 @@ import Foundation
 
 public struct Extensions {
     
-    public func get()-> String{
+    public static func get()-> String{
         return "This is my Extension"
     }
 }
