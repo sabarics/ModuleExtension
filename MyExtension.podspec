@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "MyExtension"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.2"
   spec.summary      = "A short description of MyExension."
   spec.description  = "A complete description of MyExension"
   spec.homepage     = "https://github.com/sabarics/ModuleExtension"
